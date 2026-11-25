@@ -1,0 +1,66 @@
+[
+  {
+    "id": "acme-pro-price",
+    "entity": "Acme CRM Pro plan",
+    "attribute": "price",
+    "value": "$29",
+    "keywords": [
+      "Pro"
+    ],
+    "source_url": "https://acme.example.com/pricing",
+    "our_page": "our-pages/acme-review.md",
+    "priority": "high"
+  },
+  {
+    "id": "beta-free-limit",
+    "entity": "Beta Mail Free plan",
+    "attribute": "contact limit",
+    "value": "500 contacts",
+    "keywords": [
+      "Free"
+    ],
+    "source_url": "https://beta.example.com/plans",
+    "our_page": "our-pages/beta-review.md"
+  },
+  {
+    "id": "gamma-starter-price",
+    "entity": "Gamma Starter plan",
+    "attribute": "price",
+    "value": "$9",
+    "keywords": [
+      "Starter"
+    ],
+    "source_url": "https://gamma.example.com/pricing"
+  },
+  {
+    "id": "delta-trial",
+    "entity": "Delta Free trial",
+    "attribute": "trial length",
+    "value": "14-day free trial",
+    "keywords": [
+      "trial"
+    ],
+    "source_url": "https://delta.example.com/pricing",
+    "priority": "low"
+  },
+  {
+    "id": "echo-annual-price",
+    "entity": "Echo Annual plan",
+    "attribute": "price",
+    "value": "$20",
+    "keywords": [
+      "Annual"
+    ],
+    "source_url": "https://echo.example.com/pricing"
+  },
+  {
+    "id": "fox-price",
+    "entity": "Fox Basic plan",
+    "attribute": "price",
+    "value": "$5",
+    "keywords": [
+      "Basic"
+    ],
+    "source_url": "https://fox.example.com/pricing"
+  }
+]
